@@ -5,11 +5,11 @@
 body {
 	color: white;
 	text-align: center;
-	background: url("images/landscape-wood-vertical-white-planks-2-72dpi.jpg");
+	background: url("landscape-wood-vertical-white-planks-2-72dpi.jpg");
 	background-size: cover;
 }
 #box {
-	background: #000;
+	background: #fff;
 	align-content: center;
 }
 
