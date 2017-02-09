@@ -11,18 +11,31 @@
 	max-width: 1000px;
 	width:92%*/
 /*}*/
+
+body {
+  text-align:center;
+  background: url("http://compellingcree.com/wp-content/uploads/2017/02/artistglasses1.jpg");
+  background-size: cover;
+  color: #fff;
+  font-family: Helvetica;
+}
+
 div {
 	height: 549px;
-	width: 1200px
-	
+	width: 1200px;
+	border: 2px solid transparent;
+	display: inline-block;
+	margin: 0px
+
+
 }
-img {
-	/*background:url(http://compellingcree.com/wp-content/uploads/2017/02/artistglasses1.jpg) */
-	background: center top no-repeat; /*#178cb5;*/
+/*div img {
+	background:url(http://compellingcree.com/wp-content/uploads/2017/02/artistglasses1.jpg) 
+	background: center top no-repeat; /*#178cb5;
 	background-size:cover;
 	/*color:#fff;
 	margin:0*/
-}
+/*}**//*/
 /*#hero .box {
 	box-sizing:border-box;
 	padding:3em 0 2em
