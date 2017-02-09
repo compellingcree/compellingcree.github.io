@@ -3,7 +3,7 @@
 }
 
 body {
-	color: white;
+	color: rgba(0,0,0,.7);
 	text-align: center;
 	background-image: url("http://compellingcree.com/wp-content/uploads/2017/02/paper25.jpg");
 	background-size: cover;
