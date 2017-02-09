@@ -15,8 +15,10 @@ h2 {
 }
 
 div {
-	height: 600px;
+	height: 1000px;
 	width:1000px;
 	border: 2px
 	border-color: #FFF;
+	color: black;
+
 }
