@@ -11,6 +11,11 @@
 	max-width: 1000px;
 	width:92%*/
 /*}*/
+div {
+	height: 549px;
+	width: 1200px
+	
+}
 img {
 	/*background:url(http://compellingcree.com/wp-content/uploads/2017/02/artistglasses1.jpg) */
 	background: center top no-repeat; /*#178cb5;*/
