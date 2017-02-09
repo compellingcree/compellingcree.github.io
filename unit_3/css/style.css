@@ -5,7 +5,7 @@
 body {
 	color: white;
 	text-align: center;
-	background: "images/artistglasses.jpg"
+	background: url(images/landscape-wood-vertical-white-planks-2-72dpi.jpg);
 	background-size: cover;
 }
 #box {
