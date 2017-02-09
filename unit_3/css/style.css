@@ -16,11 +16,11 @@ body {
 	color:#fff;
 	margin:0
 }
-#box h1 p  {
-	left: 
+.box {
+	
 	color: rgba(0,0,0,.65);
-	background: #fff;
-	align-content: center;
+	
+	align-content: left;
 }
 
 img {
@@ -36,5 +36,5 @@ h2 {
 
 
 
-}
+
 
