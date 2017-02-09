@@ -11,6 +11,10 @@ body {
 	background: #000;
 	align-content: center;
 }
+
+img {
+	padding: 10px
+}
 h1 {
 	font: "Times New Roman";
 }
