@@ -9,6 +9,14 @@ body {
 	background-size: cover;
 }
 
+
+
+/*#hero h1,
+{line-height:1.2em}
+
+#hero
+{text-shadow:0 2px 0 rgba(0,0,0,.24)}*/
+
 #hero {
 	background:url(http://compellingcree.com/wp-content/uploads/2017/02/artistglasses1.jpg) 
 	center top no-repeat #178cb5;
@@ -17,25 +25,17 @@ body {
 	margin:0
 }
 
-#hero h1,
-{line-height:1.2em}
-
-#hero
-{text-shadow:0 2px 0 rgba(0,0,0,.24)}
 
 
 
-
-
-
-#hero .box{box-sizing:border-box;padding:3em 0 2em}
+/*#hero .box{box-sizing:border-box;padding:3em 0 2em}
 
 #hero h1{font-size:2.54em;margin:0 33% 0 0}
 #hero, #hero p{font-family:"Helvetica Neue",Helvetica,sans-serif;line-height:1.4em}
 
 #hero p{font-size:1.17em;font-weight:200;margin:.5em 40% 0 0}
 
-#hero p{font-size:1em}
+#hero p{font-size:1em}*/
 
 
 
