@@ -3,8 +3,7 @@
 }
 
 body {
-	color: rgba(0,0,0,.7);
-	text-align: left;
+	
 	background-image: url("http://compellingcree.com/wp-content/uploads/2017/02/paper25.jpg");
 	background-size: cover;
 }
@@ -16,7 +15,11 @@ body {
 
 #hero
 {text-shadow:0 2px 0 rgba(0,0,0,.24)}*/
-
+.box {
+	margin:0 auto;
+	max-width: 1000px;
+	width:92%
+}
 #hero {
 	background:url(http://compellingcree.com/wp-content/uploads/2017/02/artistglasses1.jpg) 
 	center top no-repeat #178cb5;
@@ -24,8 +27,14 @@ body {
 	color:#fff;
 	margin:0
 }
-
-
+#hero .box {
+	box-sizing:border-box;
+	padding:3em 0 2em
+}
+}#hero .box{
+	padding-top:2em;
+	width:90%
+}
 
 
 /*#hero .box{box-sizing:border-box;padding:3em 0 2em}
