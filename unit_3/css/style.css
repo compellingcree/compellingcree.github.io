@@ -17,7 +17,7 @@ body {
 	margin:0
 }
 
-#hero h1,h3
+#hero h1,
 {line-height:1.2em}
 
 #hero
@@ -31,9 +31,9 @@ body {
 #hero .box{box-sizing:border-box;padding:3em 0 2em}
 
 #hero h1{font-size:2.54em;margin:0 33% 0 0}
-#hero, #hero h2,#hero p{font-family:"Helvetica Neue",Helvetica,sans-serif;line-height:1.4em}
+#hero, #hero p{font-family:"Helvetica Neue",Helvetica,sans-serif;line-height:1.4em}
 
-#hero h2,#hero p{font-size:1.17em;font-weight:200;margin:.5em 40% 0 0}
+#hero p{font-size:1.17em;font-weight:200;margin:.5em 40% 0 0}
 
 #hero p{font-size:1em}
 
@@ -41,9 +41,8 @@ body {
 
 
 
-img {
-	padding: 0px
-}
+
+
 h1 {
 	font: "Times New Roman";
 }
