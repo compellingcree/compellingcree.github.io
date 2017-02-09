@@ -5,7 +5,8 @@
 body {
 	color: white;
 	text-align: center;
-	background-color: rgba(0,0,0,.5);
+	background: "images/artistglasses.jpg"
+	background-size: cover;
 }
 #box {
 	background: #000;
