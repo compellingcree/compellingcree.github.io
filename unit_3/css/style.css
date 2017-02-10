@@ -18,7 +18,7 @@ body {
   background: url("http://compellingcree.com/wp-content/uploads/2017/02/artistglasses1.jpg")
   /*background-size: cover;*/
   center top no-repeat;
-  background-size: cover;
+  background-size: contain;
   /*color: #000;
   font-family: Helvetica;*/
 }
