@@ -13,16 +13,25 @@
 /*}*/
 
 body {
-  text-align:left center;
+  text-align:left;
 
   background: url("http://compellingcree.com/wp-content/uploads/2017/02/artistglasses1.jpg")
   /*background-size: cover;*/
   center top no-repeat;
   background-size: cover;
-  color: #000;
-  font-family: Helvetica;
+  /*color: #000;
+  font-family: Helvetica;*/
 }
 
+#box {
+	text-align: left;
+	padding: 2em;
+	display: inline-block;
+	border: 2px solid black;
+	color: #000;
+  	font-family: Helvetica;
+
+}
 /*div {
 	height: 549px;
 	width: 1200px;
