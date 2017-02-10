@@ -24,8 +24,8 @@ body {
 }
 
 #box {
-	height: 161px
-	width: 420
+	height: 161px;
+	width: 420px;
 	text-align: left;
 	padding: 2em;
 	display: inline-block;
