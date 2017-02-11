@@ -3,6 +3,7 @@
 h1 {
 	font-family: 'Arima Madurai', cursive;
 	font-weight: 900;
+	font-size: 75px;
 }
 
 p {
@@ -19,9 +20,9 @@ p {
 
 #makeyour, #box {
 	height: 600px;
-	width: 600px;
+	width: 1200px;
 	
-	align-content: bottom;
+	align-content: center;
 	padding: 2em;
 	display: inline-block;
 	border: 2px solid transparent;
