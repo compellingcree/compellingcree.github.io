@@ -10,6 +10,7 @@ p {
 	font-family: 'Lato', sans-serif;
 	font-weight: 400;
 	font-size: 25px;
+	line-height: 1.5em;
 }
 
 #banner {
@@ -23,7 +24,7 @@ p {
 	height: 600px;
 	width: 1200px;
 	
-	align-content: center;
+	text-align: center;
 	padding: 2em;
 	display: inline-block;
 	border: 2px solid transparent;
