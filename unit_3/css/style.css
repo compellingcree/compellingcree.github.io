@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Arima+Madurai:400,800|Lato');
 
+body {
+	background-color: powderblue;
+} 
+
 h1 {
 	font-family: 'Arima Madurai', cursive;
 	font-weight: 900;
@@ -20,7 +24,7 @@ p {
  
 }
 
-#makeyour, #box {
+#makeyour   {
 	height: 600px;
 	width: 100%;
 	
@@ -31,7 +35,18 @@ p {
 	background-color: powderblue;
 	color: #000;
   	
-
+}
+#box {
+	height: 600px;
+	width: 100%;
+	
+	text-align: center;
+	padding: 5em;
+	
+	border: 0px solid transparent;
+	background-color: white;
+	color: #000;
+  	
 }
 
 
